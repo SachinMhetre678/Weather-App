@@ -3,6 +3,10 @@
 
 A simple weather app that provides current weather information for a given location. Check the temperature, description, humidity, and wind speed with a stylish interface.
 
+## Demo 🌐
+
+Check out the live demo ((https://sachinmhetre678.github.io/Weather-App/)).
+
 ## Features 🌟
 
 - Search for weather by entering your location.
